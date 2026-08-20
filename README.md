@@ -1,10 +1,12 @@
-# Software
+# Testing
 
-Planned software modules:
-- Computer vision
-- Component identification
-- Motion control
-- Electrical testing
-- Data logging
-- Inventory management
-- Dashboard / visualization
+Store testing procedures, datasets and measured results here.
+
+## Planned Metrics
+- Component detection accuracy
+- Extraction success rate
+- Component damage rate
+- Electrical test accuracy
+- Processing time per component
+- Recovery yield
+- System reliability
