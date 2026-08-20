@@ -1,5 +1,10 @@
-# Prototype
+# Software
 
-Store CAD models, mechanism designs, prototype photographs and assembly documentation here.
-
-Experimental designs should be labelled until validated.
+Planned software modules:
+- Computer vision
+- Component identification
+- Motion control
+- Electrical testing
+- Data logging
+- Inventory management
+- Dashboard / visualization
